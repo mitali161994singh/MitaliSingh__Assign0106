@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-13T22:51:35 IST" name="Default suite" finished-at="2023-02-13T22:51:40 IST" duration-ms="4357">
+    <groups>
+    </groups>
+    <test started-at="2023-02-13T22:51:35 IST" name="Default test" finished-at="2023-02-13T22:51:40 IST" duration-ms="4357">
+      <class name="rcbCricktersData.assesmentRCB.VerifyRoles">
+        <test-method signature="getverifyRoles()[pri:0, instance:rcbCricktersData.assesmentRCB.VerifyRoles@2a54a73f]" started-at="2023-02-13T22:51:35 IST" name="getverifyRoles" finished-at="2023-02-13T22:51:40 IST" duration-ms="4270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getverifyRoles -->
+      </class> <!-- rcbCricktersData.assesmentRCB.VerifyRoles -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
